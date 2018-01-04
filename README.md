@@ -1,2 +1,4 @@
 # chuckjokesdemo
-Web Client for Chuck Norris Jokes
+Cliente web para mostrar chistes de Chuck Norris. 
+
+
