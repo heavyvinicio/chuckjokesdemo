@@ -9,16 +9,21 @@ Entre sus principales características se podría resaltar las siguientes:
 ## Uso del framework
 Importan la librarías necesarias
 - Hojas de estilos
+
 ```css
 <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet" />
 ```
+
 - Scripts
+
 ```js
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-skeleton/3.6.3/skeleton.js"></script>
 <script src="https://cdn.rawgit.com/heavyvinicio/chuckjokesdemo/master/jquery.icndb.final.js"></script>
 ```
+
 Para visualizar los resultados podemos agregar el sigueitne contenido html
+
 ```html
 <div align="center">
 <h1>The Chuck Jokes</h1>
@@ -37,7 +42,6 @@ Para visualizar los resultados podemos agregar el sigueitne contenido html
   </tbody>
 </table>
 ```
-
 Para finalizar añadimos el código jQuery que nos permitirá leer los chistes generados por el servidor que invoca el api.
 
 ```js
