@@ -22,6 +22,6 @@ var categorias = ["nerdy"];
   });
 ```
 ## Ejemplos de uso de la libreria
-- Usando el framework Skeleton. [Ver](https://github.com/user/repo/blob/branch/other_file.md)
-- Usando animación con css y jQuery. [Ver](https://github.com/user/repo/blob/branch/other_file.md)
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+- Usando el framework Skeleton. [Ver](skeleton.md)
+- Usando animación con css y jQuery. [Ver](https://github.com/user/repo/blob/branch/animacion.md)
+
