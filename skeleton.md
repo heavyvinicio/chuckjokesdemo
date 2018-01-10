@@ -1,13 +1,13 @@
 # Ejemplo de uso del api ICNDb con el framework Skeleton
 
-Skeleton es un framework que permite la gestionar elementos css de una manera facil y rápida.
-Entre sus principales caracteristicas se podría resaltar las siguientes:
+Skeleton es un framework que permite gestionar elementos css de una manera fácil y rápida.
+Entre sus principales características se podría resaltar las siguientes:
 - Tiene un tamaño menor a 8 Kb por lo que lo hace un framework muy ligero
-- Tiene una grilla de 12 columnas para gestionar dispositivos moviles
+- Tiene una grilla de 12 columnas para gestionar dispositivos móviles
 - Soporte para CSS3
 
 ## Uso del framework
-Importan la librarias necesarias
+Importan la librarías necesarias
 - Hojas de estilos
 ```css
 <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet" />
@@ -38,10 +38,9 @@ Para visualizar los resultados podemos agregar el sigueitne contenido html
 </table>
 ```
 
-Para finalizar añadimos el código jQuery que nos permitira leer los chistes generados por el servidor que invoca el api.
+Para finalizar añadimos el código jQuery que nos permitirá leer los chistes generados por el servidor que invoca el api.
 
 ```js
-var categorias = ["nerdy"];
  var categorias = ["nerdy"];
   $.icndb.getRandomJokes({
     number: 10,
