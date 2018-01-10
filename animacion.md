@@ -119,6 +119,6 @@ var jokes = [];
 El ejemplo completo funcionado lo pueden encontrar [CodePen](https://codepen.io/heavyvinicio/pen/YYrYrg).
 
 ## Problemas detectados
-El aplicativo funciona bien en todos los navegadores con el sistema oeprativo Windows, sin embargo, si se prueba con el navegador Firefox en Linux, este tiene un bug que ya fue reportado a la organización y que todavía no esta solventado por lo que la página podría no funcionar en este caso particular.
+El aplicativo funciona bien en todos los navegadores con el sistema operativo Windows, sin embargo, sí se prueba con el navegador Firefox en Linux, este tiene un bug que ya fue reportado a la organización y que todavía no esta solventado por lo que la página podría no funcionar en este caso particular.
 
 ## [<< Regresar a la página principal](index.md)
