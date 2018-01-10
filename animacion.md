@@ -2,11 +2,11 @@
 
 En este ejemplo se usara el código generado por el Justus Tumacder en un ejemplo realizado en CodePen denominado [Alphabet Soup](https://codepen.io/JustusFT/pen/ENLZGJ).
 
-La idea es muy simple y es seccionar las letras de la chiste que nos devuleve el servicio y colcoarla mediante animación en lugares randomicos de la página.
+La idea es muy simple y es seccionar las letras de la chiste que nos devuelve el servicio y colocarla mediante animación en lugares randomicos de la página.
 
 ## Implementación
 
-- Generamos una página html que contenga el sigueinte código:
+- Generamos una página html que contenga el siguiente código:
 ```html
 <div id="loader"></div>
   <div id="soup-container">
@@ -108,11 +108,11 @@ var jokes = [];
   }
   ```
   
-  Como resultado de este procesamiento, se visualizan una página moderna animada que funciona de la siguiente manera:
+  Como resultado de este procesamiento, se visualiza una página moderna animada que funciona de la siguiente manera:
   - Se recupera la lista de chistes del repositorio ICNDb.
-  - Se procesa cada chiste y se coloca cada letra de cada chiste en un ana posicion de un array
+  - Se procesa cada chiste y se coloca cada letra de cada chiste en una posición de un array
   - Se obtiene las dimensiones de la pantalla: width y height
-  - En base a esas medidas se ejecuta una funcion para generar posiciones randomicas para cada letra de cada posción del array de cada chiste de Chuck
+  - En base a esas medidas se ejecuta una función para generar posiciones randomicas para cada letra de cada posición del array de cada chiste de Chuck
   - Finalmente, se muestra la sopa de letras que se mueven de una manera fluida.
   
   
