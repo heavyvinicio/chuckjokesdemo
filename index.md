@@ -23,5 +23,5 @@ var categorias = ["nerdy"];
 ```
 ## Ejemplos de uso de la libreria
 - Usando el framework Skeleton. [Ver](skeleton.md)
-- Usando animación con css y jQuery. [Ver](https://github.com/user/repo/blob/branch/animacion.md)
+- Usando animación con css y jQuery. [Ver](animacion.md)
 
