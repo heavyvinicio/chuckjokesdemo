@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este repositorio mantiene dos ejemplos de uso de la libreria ICNDb.com, en donde proprociona una api de facil implementación desarrollada en lenguaje JavaScript con jQuery.
+Este repositorio mantiene dos ejemplos de uso de la librería ICNDb.com, en donde proporciona una api de fácil implementación desarrollada en lenguaje JavaScript con jQuery.
 
 Ejemplo de uso del código de la api.
 ```sh
@@ -21,7 +21,7 @@ var categorias = ["nerdy"];
     }
   });
 ```
-## Ejemplos de uso de la libreria
+## Ejemplos de uso de la librería
 - Usando el framework Skeleton. [Ver](skeleton.md)
 - Usando animación con css y jQuery. [Ver](animacion.md)
 
